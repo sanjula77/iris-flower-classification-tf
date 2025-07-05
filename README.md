@@ -112,7 +112,7 @@ notebooks/
     └── terminal_output.png
 ```
 
-You can then embed images in this README using:
+Model Summary:
 
 ![Model Summary](notebooks/screenshots/summry.png)
 
