@@ -95,9 +95,28 @@ model = tf.keras.models.load_model('models/iris_model')
 
 ---
 
-## 📸 Screenshots (Optional)
+## 📸 Screenshots
 
-Add screenshots of your terminal output, model accuracy, or graphs (e.g., from TensorBoard or matplotlib) here.
+Screenshots of terminal output, model accuracy, or graphs (e.g., from TensorBoard or matplotlib) can be saved in the `notebooks/screenshots/` directory.
+
+> **Tip:** Create the `notebooks/screenshots/` folder if it doesn't exist, and save your images there for easy reference and sharing.
+
+Example:
+
+```
+notebooks/
+├── 00_iris_data_overview.ipynb
+├── 01_iris_classifier.ipynb
+└── screenshots/
+    ├── accuracy_plot.png
+    └── terminal_output.png
+```
+
+You can then embed images in this README using:
+
+```markdown
+![INFO](notebooks/screenshots/summry.png)
+```
 
 ---
 
