@@ -114,9 +114,7 @@ notebooks/
 
 You can then embed images in this README using:
 
-```markdown
-![INFO](notebooks/screenshots/summry.png)
-```
+![Model Summary](notebooks/screenshots/summry.png)
 
 ---
 
